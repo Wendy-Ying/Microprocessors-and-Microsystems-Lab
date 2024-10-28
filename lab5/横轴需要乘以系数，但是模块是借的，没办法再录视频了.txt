@@ -1,0 +1,2 @@
+tempreture.py，根据time.sleep(0.1)，需要把横轴的time*0.1，才可以得到以s为单位的结果图像。
+voltage_change.py，根据time.sleep(0.005)，需要把横轴的time*0.005，才可以得到以s为单位的结果图像。
