@@ -6,3 +6,4 @@ Lab of Microprocessors and Microsystems, learning to use the interface of raspbe
 - lab3. switch sensor
 - lab4. ADC sensor(PCF8591)
 - lab5. temperature sensor
+- lab6. ultrasonic sensor
