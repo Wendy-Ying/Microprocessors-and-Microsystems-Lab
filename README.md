@@ -7,3 +7,5 @@ Lab of Microprocessors and Microsystems, learning to use the interface of raspbe
 - lab4. ADC sensor(PCF8591)
 - lab5. temperature sensor
 - lab6. ultrasonic sensor
+- lab7. buzzer
+- lab8. PS2 joystick
