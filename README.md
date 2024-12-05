@@ -11,3 +11,4 @@ Lab of Microprocessors and Microsystems, learning to use the interface of raspbe
 - lab7. buzzer
 - lab8. joystick
 - lab9. infrared remote controller
+- lab10. interrupt
